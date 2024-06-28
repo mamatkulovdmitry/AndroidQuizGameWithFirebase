@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="app_title">Quizzy App</string>
+    <string name="app_description">Let\'s play this awesome quiz app to enhance your knowledge</string>
+    <string name="section_title">All items</string>
+    <string name="next_btn">Next</string>
+    <string name="finish_btn">Finish</string>
+</resources>
